@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Script 1: System Identity Report
-# Author: Ajinkya Wasnik
+# Author: MOHAMMED RABBANI
 # Course: Open Source Software
 
 # Variables
-STUDENT_NAME="Ajinkya Wasnik"
+STUDENT_NAME="MOHAMMED RABBANI"
 SOFTWARE_CHOICE="Python"
 
 # System information
